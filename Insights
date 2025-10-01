@@ -1,0 +1,18 @@
+🔍 Insights from Dashboard
+
+-Admissions & Discharges(flow of an hospital):
+
+  Average 10,329 admissions and 10,240 discharges per year → hospital has a good recovery rate and efficient patient cycle.
+  Total admissions and discharges are nearly equal, indicating strong treatment success and minimal backlog
+
+-Treatment Cost: 
+
+  The most expensive procedures are Cancer treatment ($25,000) and Stroke/Heart Disease treatment ($10,000). 
+  This highlights the significant resource allocation required for complex, life-threatening conditions.
+  The average cost per person is ₹8,367, with costs varying by procedure and condition which is affordable.
+
+-Readmissions:
+
+  All acute conditions (Heart Disease, Fractured Arm, Appendicitis, Cancer) resulted in "Recovered" outcomes with no readmission.
+  In most of the cases of Chronic conditions (Diabetes, Stroke, Hypertension) requires  readmissions. 
+  Chronic disease management is a key driver of readmission rates.
